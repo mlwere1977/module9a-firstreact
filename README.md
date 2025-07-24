@@ -14,7 +14,11 @@ Additionally, each profile card has a **Exit** button that, when clicked, tries 
 
 ## Knowledge Acquired:
 - How to Use Vite to Set Up a React Project
-- Vite makes it simple and quick to set up a React project. The command npm create vite@latest <project-name> --template react swiftly scaffolds a simple, optimized React application. - Compared to conventional configurations, Vite's rapid development server with hot module replacement (HMR) speeds up iteration. After scaffolding finishes the setup, npm install is  - used to manage dependencies. Because of the project's straightforward structure, adding custom components is quick and easy.
+- Vite makes it simple and quick to set up a React project. 
+- The command npm create vite@latest <project-name> --template react swiftly scaffolds a simple, optimized React application. 
+- Compared to conventional configurations, Vite's rapid development server with hot module replacement (HMR) speeds up iteration. 
+- After scaffolding finishes the setup, npm install is used to manage dependencies. 
+- Because of the project's straightforward structure, adding custom components is quick and easy.
 
 ## Writing and Organizing a Useful React Component:
 - Simple JavaScript functions that return JSX are known as React functional components. 
@@ -38,7 +42,8 @@ Additionally, each profile card has a **Exit** button that, when clicked, tries 
 Together, these lessons show how modern React development with Vite allows for dynamic styling, modular UI development, and quick startup, enabling you to produce well-designed and effective web applications.
 
 ## Challenges
-- I initially had issues starting the dev server due to PowerShell policy. Resolved it by running `Set-ExecutionPolicy Bypass`.
+- I initially had issues starting the dev server due to PowerShell policy. 
+- Resolved it by running `Set-ExecutionPolicy Bypass`.
 to enable the development server and temporarily permit script execution.  
 - I discovered that Windows PowerShell has security features that can prevent scripts from running, particularly when utilizing the terminal inside of editors like Visual Studio Code.  
 - Acknowledged that in order to successfully modify execution policies, PowerShell must be run as administrator.  
