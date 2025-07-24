@@ -13,4 +13,7 @@ This is a React app created using Vite that renders a UserProfile component. The
 I initially had issues starting the dev server due to PowerShell policy. Resolved it by running `Set-ExecutionPolicy Bypass`.
 
 ## Screenshot
-![screenshot](./src/assets/myscreenshot.png) 
+
+![screenshot](./myscreenshot.png)
+
+
