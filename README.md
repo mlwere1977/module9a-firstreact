@@ -10,8 +10,7 @@ This is a React app created using Vite that renders a UserProfile component. The
 - How to render a component inside App.jsx
 
 ## Challenges
-[Describe any issues you encountered and how you resolved them, for example:]
 I initially had issues starting the dev server due to PowerShell policy. Resolved it by running `Set-ExecutionPolicy Bypass`.
 
 ## Screenshot
-![screenshot](./src/assets/myscreenshot.png) <!-- OR drag & drop screenshot into GitHub later -->
+![screenshot](./src/assets/myscreenshot.png) 
